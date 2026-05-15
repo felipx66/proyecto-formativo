@@ -1,0 +1,38 @@
+h1{
+    color:blue;
+}
+p{
+    font-size: 16px;
+    line-height: 1.5;
+}
+ h2 {
+    color:blue;
+}
+.button {
+    display: inline-block;
+    padding: .75em 1.5em;
+    background: dodgerblue;
+    color: #fff;
+    border-radius: .5em;
+    cursor: pointer;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+th, td{
+    border: 1px solid black;
+    padding: 15px;
+    text-align: center;
+}
+th{
+    background-color: #333;
+    color:white;
+}
+.activo{
+    background-color: green;
+}
+body{
+    background-color:#f4f4f4
+}
